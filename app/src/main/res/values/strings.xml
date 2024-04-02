@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LAB1</string>
+
+    <!-- Strings para AT1 -->
+    <string name="page_name_at1">Página AT1</string>
+    <string name="go_to_at2">Ir para AT2</string>
+
+    <!-- Strings para AT2 -->
+    <string name="page_name_at2">Página AT2</string>
+    <string name="student_info">Dados de aluno</string>
+    <string name="close_at2">Fechar AT2</string>
+</resources>
